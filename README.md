@@ -53,8 +53,8 @@ All 100 patient profiles in `sample_patients_100.xlsx` adhere strictly to de-ide
 
 ### 1. Clone Repository & Install Dependencies
 ```bash
-git clone https://github.com/kousthubsarma/chappal.git
-cd chappal
+git clone https://github.com/kousthubsarma/Clinical-analysis.git
+cd Clinical-analysis
 pip install -r requirements.txt
 ```
 
@@ -71,7 +71,7 @@ The app will be available locally at `http://localhost:8501`.
 1. Visit [Streamlit Community Cloud](https://share.streamlit.io/).
 2. Sign in with your GitHub account.
 3. Click **"New app"**.
-4. Select repository: `kousthubsarma/chappal` (or your chosen repo name).
+4. Select repository: `kousthubsarma/Clinical-analysis`
 5. Branch: `main`
 6. Main file path: `app.py`
 7. Click **"Deploy!"**
